@@ -115,8 +115,5 @@ Due to GitHub file size limitations, the dataset and trained model file are not 
 
 ---
 
-## 👩‍💻 Author
-
-**Tanuja Thorat**
 
 AI / Machine Learning Project
